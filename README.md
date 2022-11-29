@@ -12,4 +12,5 @@ The number 1659 is refered from this https://github.com/acidanthera/WhateverGree
 and special thanks for hieplpvip & xick
 
 hieplpvip's https://github.com/hieplpvip/Asus-Zenbook-Hackintosh
+
 xick's https://github.com/xick/Asus-Zenbook-Hackintosh
